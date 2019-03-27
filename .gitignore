@@ -1,0 +1,11 @@
+/target/
+target/
+**/target
+**/target/
+
+.idea/
+.settings/
+artifacts/
+
+elk_log.iml
+aiops.iml
